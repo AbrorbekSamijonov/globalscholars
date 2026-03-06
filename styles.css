@@ -205,7 +205,7 @@ p { margin: 0 0 12px; line-height: 1.65; color: var(--gs-ink-soft); }
   background-image: url("background_us.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: min(150%, 100%);
+  background-size: min(100%, 200%);
   opacity: 0.5;
   pointer-events: none;
 }
